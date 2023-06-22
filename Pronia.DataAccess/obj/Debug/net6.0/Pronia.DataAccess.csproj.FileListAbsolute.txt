@@ -1,0 +1,15 @@
+C:\test\Extension task\Pronia\Pronia.DataAccess\bin\Debug\net6.0\Pronia.DataAccess.deps.json
+C:\test\Extension task\Pronia\Pronia.DataAccess\bin\Debug\net6.0\Pronia.DataAccess.dll
+C:\test\Extension task\Pronia\Pronia.DataAccess\bin\Debug\net6.0\Pronia.DataAccess.pdb
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.csproj.AssemblyReference.cache
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.AssemblyInfoInputs.cache
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.AssemblyInfo.cs
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.csproj.CoreCompileInputs.cache
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.dll
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\refint\Pronia.DataAccess.dll
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.pdb
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\ref\Pronia.DataAccess.dll
+C:\test\Extension task\Pronia\Pronia.DataAccess\bin\Debug\net6.0\Pronia.Core.dll
+C:\test\Extension task\Pronia\Pronia.DataAccess\bin\Debug\net6.0\Pronia.Core.pdb
+C:\test\Extension task\Pronia\Pronia.DataAccess\obj\Debug\net6.0\Pronia.DataAccess.csproj.CopyComplete
