@@ -21,6 +21,8 @@ namespace Pronia.UI.Controllers
                 Sliders= await _context.Sliders.ToListAsync(),
                 Shippings= await _context.Shippings.ToListAsync(),
                 Products= await _context.Products.ToListAsync(),
+                Banners= await _context.Banners.ToListAsync(),
+                NewProducts= await _context.NewProducts.ToListAsync(),
             };
             return View(homeVM);
         }
